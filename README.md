@@ -1,8 +1,8 @@
-# Hi there 👋
+# Hi there 👋 
 <div align="center" style="display: inline_block">
- <img height="60" width="60" src="https://user-images.githubusercontent.com/60186267/173129013-241f5485-4462-4557-a533-35fbc52723cc.jpg">
+ <img height="70" width="70" src="https://user-images.githubusercontent.com/60186267/173129013-241f5485-4462-4557-a533-35fbc52723cc.jpg">
 </div>
-
+<br>
 <div align="center" style="display: inline_block">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
